@@ -1,0 +1,24 @@
+2022-01-16 22:05:28,305-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-16 22:05:30,472-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2233}
+2022-01-16 22:05:32,650-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2234}
+2022-01-16 22:27:58,387-INFO-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-16 22:28:00,586-INFO-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2235}
+2022-01-16 22:28:02,768-INFO-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2236}
+2022-01-16 22:30:46,076-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-16 22:30:48,238-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2237}
+2022-01-16 22:30:50,409-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2238}
+2022-01-18 22:06:08,987-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-18 22:06:11,141-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2239}
+2022-01-18 22:06:13,263-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2240}
+2022-01-24 21:04:00,431-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-24 21:04:02,680-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2247}
+2022-01-24 21:04:04,812-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2248}
+2022-01-25 00:18:12,995-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-25 00:18:15,161-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2249}
+2022-01-25 00:18:17,318-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2250}
+2022-01-25 00:22:21,735-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-01-25 00:22:23,911-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2251}
+2022-01-25 00:22:26,093-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2252}
+2022-02-06 18:07:18,706-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0}
+2022-02-06 18:07:20,864-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2425}
+2022-02-06 18:07:23,033-ERROR-my_log.py-python-日志信息:获取的结果是：{'retcode': 0, 'id': 2426}
